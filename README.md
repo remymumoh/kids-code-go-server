@@ -1,4 +1,4 @@
-# Kids Code Companion App
+# Kids Code Build Server
 This is the next level kid's programming platform. This is an open sourced project and openly available to everyone. However you need some few set up guidelines and some house keeping rules.
 
 ## Requirements
